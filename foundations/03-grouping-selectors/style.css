@@ -8,7 +8,8 @@
     background-color: rgb(221, 221, 38);
 }
 
-.no-button, .yes-button {
+.no-button, 
+.yes-button {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
