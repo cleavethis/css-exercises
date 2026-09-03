@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.first {
+    background-color: #000000;
+    color: #ffffff;
+
+}
+
+.second {
+    background-color: #fff703;
+}
+
+.first,
+.second {
+    font-size: 30px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
